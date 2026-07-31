@@ -1,9 +1,8 @@
-````markdown
 <div align="center">
 
-# LUCCA CAMPELLO
+LUCCA CAMPELLO
 
-### Front-End Developer · Graphic Designer · Photographer
+Front-End Developer · Graphic Designer · Photographer
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Designing+digital+experiences;Turning+ideas+into+visual+stories;Creating+interfaces+with+purpose" alt="Typing animation" />
 
@@ -19,37 +18,29 @@
 
 </div>
 
----
+About Me
 
-## About
+I am a Graphic Design graduate, photographer, and self-taught Front-End Developer from Brazil.
 
-I am a **Graphic Design graduate**, photographer, and self-taught Front-End Developer from Brazil.
-
-My work lives at the intersection of **design, technology, and visual storytelling**. I enjoy transforming ideas into responsive interfaces, strong visual identities, and digital experiences that feel both functional and visually intentional.
+My work lives at the intersection of design, technology, and visual storytelling. I enjoy transforming ideas into responsive interfaces, strong visual identities, and digital experiences that feel both functional and visually intentional.
 
 I am currently expanding my knowledge in modern front-end development while applying my background in design and photography to every project I create.
 
----
+Creative Profile
 
-## Creative Profile
-
-```text
 DESIGN        ████████████████████
 PHOTOGRAPHY   ██████████████████░░
 FRONT-END     ████████████████░░░░
 UI / UX       █████████████████░░░
 BRANDING      ████████████████░░░░
-````
 
----
-
-## What I Create
+What I Create
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### Digital Design
+Digital Design
 
 Visual identities, branding systems, layouts, social media assets, and digital compositions.
 
@@ -57,7 +48,7 @@ Visual identities, branding systems, layouts, social media assets, and digital c
 
 <td width="33%" align="center">
 
-### Front-End
+Front-End
 
 Responsive websites, landing pages, interactive interfaces, and modern web experiences.
 
@@ -65,7 +56,7 @@ Responsive websites, landing pages, interactive interfaces, and modern web exper
 
 <td width="33%" align="center">
 
-### Photography
+Photography
 
 Portraits, creative photography, visual storytelling, editing, and image composition.
 
@@ -73,54 +64,53 @@ Portraits, creative photography, visual storytelling, editing, and image composi
 </tr>
 </table>
 
----
+Design Philosophy
 
-## Design Philosophy
-
-> Good design is not only about how something looks.
-> It is about how clearly an idea is communicated and how naturally an experience feels.
+Good design is not only about how something looks.It is about how clearly an idea is communicated and how naturally an experience feels.
 
 My approach combines:
 
-* Visual hierarchy
-* Strong composition
-* User-centered thinking
-* Typography and color theory
-* Responsive design
-* Creative direction
-* Attention to detail
+Visual hierarchy
 
----
+Strong composition
 
-## Tech & Creative Stack
+User-centered thinking
 
-### Development
+Typography and color theory
+
+Responsive design
+
+Creative direction
+
+Attention to detail
+
+Tech & Creative Stack
+
+Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap">
 </p>
 
-### Design
+Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator">
 </p>
 
-### Tools
+Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel">
 </p>
 
----
-
-## Visual Language
+Visual Language
 
 <table>
 <tr>
 <td align="center">
 
-### Minimal
+Minimal
 
 Clean layouts, visual balance, and intentional use of negative space.
 
@@ -128,7 +118,7 @@ Clean layouts, visual balance, and intentional use of negative space.
 
 <td align="center">
 
-### Functional
+Functional
 
 Interfaces designed to be clear, accessible, and easy to navigate.
 
@@ -136,7 +126,7 @@ Interfaces designed to be clear, accessible, and easy to navigate.
 
 <td align="center">
 
-### Expressive
+Expressive
 
 Strong typography, photography, and colors that communicate personality.
 
@@ -144,40 +134,39 @@ Strong typography, photography, and colors that communicate personality.
 </tr>
 </table>
 
----
+Selected Work
 
-## Selected Work
-
-### Interface Design
+Interface Design
 
 Responsive interfaces focused on usability, hierarchy, and visual consistency.
 
-### Branding
+Branding
 
 Visual identities designed to communicate personality, purpose, and recognition.
 
-### Photography
+Photography
 
 Photography projects focused on composition, emotion, lighting, and storytelling.
 
-### Web Development
+Web Development
 
 Landing pages and front-end projects built with modern technologies and responsive principles.
 
----
+Current Focus
 
-## Current Focus
+Building modern and responsive interfaces
 
-* Building modern and responsive interfaces
-* Improving React and TypeScript skills
-* Studying UI/UX and interaction design
-* Developing a stronger creative portfolio
-* Combining photography, design, and code
-* Exploring motion and visual storytelling
+Improving React and TypeScript skills
 
----
+Studying UI/UX and interaction design
 
-## GitHub Overview
+Developing a stronger creative portfolio
+
+Combining photography, design, and code
+
+Exploring motion and visual storytelling
+
+GitHub Overview
 
 <div align="center">
 
@@ -191,13 +180,11 @@ Landing pages and front-end projects built with modern technologies and responsi
 
 </div>
 
----
-
-## Contact
+Contact
 
 <div align="center">
 
-### Have a project, idea, or creative collaboration?
+Have a project, idea, or creative collaboration?
 
 <a href="https://www.linkedin.com/in/lucca-campelo-290534320/">
   <img src="https://img.shields.io/badge/Let's_connect-6D5DFB?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -209,7 +196,6 @@ Landing pages and front-end projects built with modern technologies and responsi
 
 <br><br>
 
-**Designing ideas. Coding experiences. Capturing stories.**
+Designing ideas. Coding experiences. Capturing stories.
 
 </div>
-```
